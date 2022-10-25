@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bordenit
 - 👀 I’m interested in DevSecOps and running my company.
-- 🌱 I’m currently learning Ruby Rspec testing, and Chef Inspec.
-- 💞️ I’m looking to collaborate on anything interesting, but I am an Ansible and Kubernetes professional.
+- 🌱 I’m currently learning Ruby Rspec testing, Terraform, and Chef Inspec.
+- 💞️ I’m looking to collaborate on anything interesting, but Ansible and Kubernetes are most interesting today.
 - 📫 You can reach me on bordenit.com or LinkedIn https://www.linkedin.com/company/borden-it-llc
